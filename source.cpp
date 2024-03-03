@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 
- std::cout<<"Me cago en la puta"<<endl;
+ std::cout<<"puta"<<endl;
+
     return 0;
 }
